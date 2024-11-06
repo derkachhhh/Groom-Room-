@@ -1,6 +1,6 @@
-# **GroomRoom 💇‍♂️💈**
+# **BARBER PLACE 💇‍♂️💈**
 
-**[GroomRoom]** is a salon queue management application designed to minimize wait times and enhance efficiency in barber shops and salons. With a real-time queue interface and dynamic chair management, GroomRoom ensures a seamless experience for both customers and barbers.
+**[Barber Place]** is a salon queue management application designed to minimize wait times and enhance efficiency in barber shops and salons. With a real-time queue interface and dynamic chair management, GroomRoom ensures a seamless experience for both customers and barbers.
 
 ## 📋 Features
 
