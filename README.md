@@ -33,6 +33,6 @@
    
 ## 📲 Experience Seamless Queue Management!
 
-GroomRoom is designed to transform salon visits with hassle-free, real-time queue management. Say goodbye to long waits and hello to a better, more efficient salon experience!
+Barber Place is designed to transform salon visits with hassle-free, real-time queue management. Say goodbye to long waits and hello to a better, more efficient salon experience!
 
 
